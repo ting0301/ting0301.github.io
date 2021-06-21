@@ -1,0 +1,33 @@
+h2{
+	front-size:40px
+	color:black;
+}
+h1{
+	front-size:30px;
+        color:brown;
+}
+ul{
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        backgroung-color:#AEE1CD;
+}
+li a {
+        display:block;
+        color:white;
+        text-align:center;
+        padding:10px 14px;
+        text-decoration:none;
+}
+li a:hover:not(.active){
+	background-color:gray;
+}
+table{
+        border-collaspe:collapse;
+        width:100%;
+}
+th,td{
+        taxt-align:center;
+        padding:12px;
+}  
