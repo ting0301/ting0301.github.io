@@ -1,1 +1,1 @@
-# ting0301.github.io
+[see more](https://ting0301.github.io/)
